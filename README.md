@@ -6,7 +6,7 @@
 
 ## Functions
 1. Transform source data to destination model without mapper rules
-2. Throw error when source data is not legal to transform
+2. Return MapperError when source data is not legal to transform
 
 ## Details
 1. For flat source data to flat model
